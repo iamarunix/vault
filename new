@@ -1,0 +1,19 @@
+Its a secrets management system 
+Its a cloud agnostic 
+API driven 
+Used to generate dynamic short-lived crendentials , or encrypts applications on the fly 
+Types of secrets:
+ un pw
+ certs
+ ssh keys 
+ api keys 
+ encryption keys 
+problem statement 
+Secret spread over
+ Excel Notepad 
+ hard coded in source code 
+ sticky notes 
+ github 
+ 
+ ===========
+
